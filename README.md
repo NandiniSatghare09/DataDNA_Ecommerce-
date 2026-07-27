@@ -29,3 +29,9 @@
   - Add filters: Slicers.
 
 🚀Excited to share my latest E-Commerce Sales Analysis Dashboard built using Power BI. This project focuses on analyzing sales performance, revenue trends, and product category profitability to identify key drivers of business growth.
+
+### 6.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/NandiniSatghare09/DataDNA_Ecommerce-/blob/main/Screenshot%202026-03-10%20101635.png)
+
+
